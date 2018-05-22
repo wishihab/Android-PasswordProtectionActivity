@@ -14,4 +14,4 @@ Password Protection Activity - SharedPreferences settings
 How to provide forgot password? you can create a hint question, after user input correct answer just show password.
 
 
-Note: this password unencrypted, it's not good protection if attacker have root access but quite enough to implement password protection.
+Note: this password unencrypted, it's not good protection if attacker have root access and reverse engineering technic but quite enough to implement password protection.
